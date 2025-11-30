@@ -1,0 +1,25 @@
+# Backup
+_backup/
+
+# Emacs
+*~
+\#*\#
+*.elc
+.dir-locals.el
+
+# Scheme
+*.fasl
+*.com
+*.so
+
+# Clojure
+.lein-*
+.nrepl-*
+target/
+.cpcache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+emmy
